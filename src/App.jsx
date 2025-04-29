@@ -4,6 +4,7 @@ import CounterTwo from './components/CounterTwo'
 import DocTitleOne from './components/DocTitleOne'
 import DocTitleTwo from './components/DocTitleTwo'
 import Form from './components/Form'
+import ToggleExample from './components/ToggleExample'
 import Users from './components/Users'
 import WindowSizeComponent from './components/WindowSizeComponent'
 
@@ -15,8 +16,9 @@ function App() {
       <CounterOne />
       <CounterTwo /> 
       <WindowSizeComponent />
-      <Form /> */}
-      <Users />
+      <Form />  
+      <Users /> */}
+      <ToggleExample />
     </>
   )
 }
